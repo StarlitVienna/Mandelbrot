@@ -1,2 +1,2 @@
 # Mandelbrot
-Mandelbrot visualizer suing C++ and SDL
+Mandelbrot visualizer using C++ and SDL
